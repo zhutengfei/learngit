@@ -7,7 +7,4 @@ Creating a new branch is quilk and simple  dev!!!!!!!!!!
 
 developing...
 
-bugf分支，用过as提交
-ugf分支，用过as第二次提交
-ugf分支，用过as第3次提交
- dev 分支修改
+合并bug分支到dev分支
