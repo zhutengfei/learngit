@@ -7,4 +7,4 @@ Creating a new branch is quilk and simple  dev!!!!!!!!!!
 
 developing...
 
-合并bug分支到dev分支
+合并dev分支到master分支
